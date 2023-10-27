@@ -21,3 +21,4 @@ src-git passwall_packages https://github.com/xiaorouji/openwrt-passwall-packages
 src-git passwall https://github.com/xiaorouji/openwrt-passwall.git;main
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git argonnew https://github.com/jerrykuku/luci-theme-argon.git
+
